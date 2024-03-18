@@ -1,7 +1,7 @@
 <?php
 // File: index.php
 // Author: Parth Parth
-// Purpose: 404 page
+// Purpose:  404 page
 // Last modified: 07/26/2023
 ?>
 
